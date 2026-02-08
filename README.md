@@ -89,7 +89,7 @@ This project is used for learning and does not require long-running infrastructu
 ## Learning Progress
 - [x] Terraform init & providers
 - [x] Variables and tfvars
-- [x] AWS EC2 deployment
+- [x] AWS S3 deployment
 - [ ] S3 backend
 - [ ] Terraform modules
 - [ ] Remote state
