@@ -5,6 +5,8 @@ The project focuses on clean Terraform structure, safe configuration practices, 
 
 This repo is designed to demonstrate **how I learn, structure, and explain Terraform projects**, not just that I can make resources.
 
+![Terraform CI](https://github.com/bjohnson0306/terraform-aws-learning-lab/actions/workflows/terraform-ci.yml/badge.svg)
+
 ---
 
 ## What This Repository Demonstrates
