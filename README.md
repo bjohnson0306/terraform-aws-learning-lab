@@ -8,7 +8,12 @@ This repo is designed to demonstrate **how I learn, structure, and explain Terra
 ![Terraform CI](https://github.com/bjohnson0306/terraform-aws-learning-lab/actions/workflows/terraform-ci.yml/badge.svg)
 
 ---
+## Documentation
 
+[Terraform syntax cheat sheet](docs/cheatsheet.md)
+
+
+---
 ## What This Repository Demonstrates
 
 - Terraform initialization and provider configuration
