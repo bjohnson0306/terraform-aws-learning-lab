@@ -1,4 +1,4 @@
-output "bucket_name" {
+output "s3_bucket_names" {
   description = "Name of S3 bucket created"
-  value       = aws_s3_bucket.lab.bucket
+  value       = keys(aws_s3_bucket.buckets)
 }
